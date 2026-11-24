@@ -1,4 +1,4 @@
-# old-deepseek-0.21-sunset
+# sunset-tool
 
 DeepSeek Harness 0.21 旧版本归档。
 
